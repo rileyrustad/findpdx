@@ -134,9 +134,8 @@ local_settings.py
 
 db.sqlite3
 
-journal-env
+venv
 
 shell_script.py
 ../.DS_Store
 .DS_Store
-
